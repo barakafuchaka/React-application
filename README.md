@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application shows a simple React application that dynamically allows users to add items to a list using an input field and a button. The template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
